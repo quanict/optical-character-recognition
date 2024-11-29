@@ -4,6 +4,6 @@ scipy==0.18.1
 numpy==1.22
 opencv_python==4.8.1.78
 Cython==0.27.3
-Pillow==9.0.0
+Pillow==9.2.0
 PyYAML==5.4
 tensorflow
